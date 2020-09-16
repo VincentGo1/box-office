@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1319495f8d91aecb3da2acfc1852f5c8",
+    "revision": "6de6755ce9273a4300254361b1f035a3",
     "url": "/box-office/index.html"
   },
   {
-    "revision": "31bd980b1450c7c5a1a2",
+    "revision": "faf1c7f787d70ec583f7",
     "url": "/box-office/static/css/main.93052401.chunk.css"
   },
   {
-    "revision": "a7a2bcae1c436a37399b",
-    "url": "/box-office/static/js/2.8d79446e.chunk.js"
+    "revision": "c073d1d1cb9f797497f3",
+    "url": "/box-office/static/js/2.631e76f9.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/box-office/static/js/2.8d79446e.chunk.js.LICENSE.txt"
+    "url": "/box-office/static/js/2.631e76f9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "31bd980b1450c7c5a1a2",
-    "url": "/box-office/static/js/main.0ac90942.chunk.js"
+    "revision": "faf1c7f787d70ec583f7",
+    "url": "/box-office/static/js/main.f350be7a.chunk.js"
   },
   {
     "revision": "a24731daa79adae5d2cf",
